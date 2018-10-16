@@ -1,5 +1,5 @@
 ﻿  HW1-5.cpp
-c:\users\user\desktop\호봉\씨프\hw\hw1-5\hw1-5.cpp(10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
-  c:\users\user\desktop\호봉\씨프\hw\hw1-5\hw1-5.cpp(10): note: 이 인수는 변환 지정자에서 사용됩니다.
-c:\users\user\desktop\호봉\씨프\hw\hw1-5\hw1-5.cpp(11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
-  HW1-5.vcxproj -> C:\Users\User\Desktop\호봉\씨프\HW\Debug\HW1-5.exe
+c:\씨프\hw\2015440004 경준형\hw1-5\hw1-5.cpp(10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+  c:\씨프\hw\2015440004 경준형\hw1-5\hw1-5.cpp(10): note: 이 인수는 변환 지정자에서 사용됩니다.
+c:\씨프\hw\2015440004 경준형\hw1-5\hw1-5.cpp(11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+  HW1-5.vcxproj -> C:\씨프\HW\2015440004 경준형\Debug\HW1-5.exe
